@@ -110,6 +110,20 @@
         "runtime": {
           "bin/placeholder/DevAssistant.Domain.dll": {}
         }
+      },
+      "DevAssistant.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "DevAssistant.Application": "1.0.0",
+          "DevAssistant.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DevAssistant.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevAssistant.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -222,12 +236,17 @@
       "type": "project",
       "path": "../DevAssistant.Domain/DevAssistant.Domain.csproj",
       "msbuildProject": "../DevAssistant.Domain/DevAssistant.Domain.csproj"
+    },
+    "DevAssistant.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../DevAssistant.Infrastructure/DevAssistant.Infrastructure.csproj",
+      "msbuildProject": "../DevAssistant.Infrastructure/DevAssistant.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "DevAssistant.Application >= 1.0.0",
-      "DevAssistant.Domain >= 1.0.0",
+      "DevAssistant.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.4",
       "Swashbuckle.AspNetCore.Swagger >= 10.1.7",
       "Swashbuckle.AspNetCore.SwaggerGen >= 10.1.7",
@@ -269,8 +288,8 @@
             "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\DevAssistant.Application.csproj": {
               "projectPath": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\DevAssistant.Application.csproj"
             },
-            "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\DevAssistant.Domain.csproj": {
-              "projectPath": "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\DevAssistant.Domain.csproj"
+            "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj": {
+              "projectPath": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj"
             }
           }
         }

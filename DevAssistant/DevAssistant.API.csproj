@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DevAssistant.Application\DevAssistant.Application.csproj" />
-    <ProjectReference Include="..\DevAssistant.Domain\DevAssistant.Domain.csproj" />
+    <ProjectReference Include="..\DevAssistant.Infrastructure\DevAssistant.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
