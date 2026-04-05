@@ -5,6 +5,10 @@ This is a backend project I'm building to improve my skills as a backend develop
 
 The idea started as a simple practice project, but I'm planning to grow it step by step into a real-world scalable system that simulates a developer assistant.
 
+
+View Schema Here:  
+https://drawsql.app/teams/mohamedreda/diagrams/dev-assistant
+
 ---
 
 ## 💭 Why I built this?
