@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\RealProjects\\DevAssistant\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D7B40BF-2DE8-420D-9794-4A9CBFE85440}|DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj|d:\\realprojects\\devassistant\\devassistant.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7B40BF-2DE8-420D-9794-4A9CBFE85440}|DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj|solutionrelative:devassistant.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD9BEC43-03FF-4CBC-A0C5-306A0B91B34B}|DevAssistant.Domain\\DevAssistant.Domain.csproj|d:\\realprojects\\devassistant\\devassistant.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9BEC43-03FF-4CBC-A0C5-306A0B91B34B}|DevAssistant.Domain\\DevAssistant.Domain.csproj|solutionrelative:devassistant.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,44 +63,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DevAssistant.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "DevAssistant.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T20:17:23.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "DevAssistant.Domain\\Entities\\User.cs",
               "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\Entities\\User.cs",
               "RelativeToolTip": "DevAssistant.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T19:52:53.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DevAssistant.Infrastructure.csproj",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj",
               "RelativeDocumentMoniker": "DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj",
               "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj",
               "RelativeToolTip": "DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-05T19:24:00.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "DevAssistant\\Properties\\launchSettings.json",
               "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Properties\\launchSettings.json",
               "RelativeToolTip": "DevAssistant\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-05T16:01:04.081Z"
+              "WhenOpened": "2026-04-05T16:01:04.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GolbalUsing.cs",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\GolbalUsing.cs",
               "RelativeDocumentMoniker": "DevAssistant\\GolbalUsing.cs",
@@ -104,11 +122,12 @@
               "RelativeToolTip": "DevAssistant\\GolbalUsing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T16:00:21.694Z"
+              "WhenOpened": "2026-04-05T16:00:21.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Program.cs",
               "RelativeDocumentMoniker": "DevAssistant\\Program.cs",
@@ -116,11 +135,12 @@
               "RelativeToolTip": "DevAssistant\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:53:29.872Z"
+              "WhenOpened": "2026-04-05T15:53:29.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Dependency Injection.cs",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Dependency Injection.cs",
               "RelativeDocumentMoniker": "DevAssistant\\Dependency Injection.cs",
@@ -128,24 +148,25 @@
               "RelativeToolTip": "DevAssistant\\Dependency Injection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:52:10.429Z"
+              "WhenOpened": "2026-04-05T15:52:10.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DevAssistant.API.csproj",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.API.csproj",
               "RelativeDocumentMoniker": "DevAssistant\\DevAssistant.API.csproj",
               "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.API.csproj",
               "RelativeToolTip": "DevAssistant\\DevAssistant.API.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-05T15:50:10.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DevAssistant.Application.csproj",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\DevAssistant.Application.csproj",
               "RelativeDocumentMoniker": "DevAssistant.Application\\DevAssistant.Application.csproj",
@@ -158,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DevAssistant.Domain.csproj",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\DevAssistant.Domain.csproj",
               "RelativeDocumentMoniker": "DevAssistant.Domain\\DevAssistant.Domain.csproj",

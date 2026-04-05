@@ -10,3 +10,6 @@ D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.
 D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\refint\DevAssistant.Domain.dll
 D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.pdb
 D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\ref\DevAssistant.Domain.dll
+D:\RealProjects\DevAssistant\DevAssistant.Domain\bin\Debug\net10.0\DevAssistant.Domain.runtimeconfig.json
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.csproj.AssemblyReference.cache
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.genruntimeconfig.cache
