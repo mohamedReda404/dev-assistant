@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RealProjects\\DevAssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|d:\\realprojects\\devassistant\\devassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|solutionrelative:devassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|d:\\realprojects\\devassistant\\devassistant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|solutionrelative:devassistant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|d:\\realprojects\\devassistant\\devassistant\\golbalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|solutionrelative:devassistant\\golbalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|d:\\realprojects\\devassistant\\devassistant\\devassistant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|solutionrelative:devassistant\\devassistant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|d:\\realprojects\\devassistant\\devassistant\\dependency injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2C672C-8C69-4ED1-941D-8116135F3508}|DevAssistant\\DevAssistant.csproj|solutionrelative:devassistant\\dependency injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DevAssistant\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DevAssistant\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T16:01:04.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GolbalUsing.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\GolbalUsing.cs",
+              "RelativeDocumentMoniker": "DevAssistant\\GolbalUsing.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\GolbalUsing.cs",
+              "RelativeToolTip": "DevAssistant\\GolbalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:00:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Program.cs",
+              "RelativeDocumentMoniker": "DevAssistant\\Program.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Program.cs",
+              "RelativeToolTip": "DevAssistant\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:53:29.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dependency Injection.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Dependency Injection.cs",
+              "RelativeDocumentMoniker": "DevAssistant\\Dependency Injection.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Dependency Injection.cs",
+              "RelativeToolTip": "DevAssistant\\Dependency Injection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:52:10.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevAssistant",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.csproj",
+              "RelativeDocumentMoniker": "DevAssistant\\DevAssistant.csproj",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.csproj",
+              "RelativeToolTip": "DevAssistant\\DevAssistant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T15:50:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JI9RbEh3fT8=",
+  "success": true,
+  "projectFilePath": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELking 01156909010\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\ELking 01156909010\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\ELking 01156909010\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\ELking 01156909010\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\ELking 01156909010\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "DevAssistant | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7174"
+    },
+    {
+      "url": "http://localhost:5150"
+    }
+  ],
+  "paths": { }
+}
