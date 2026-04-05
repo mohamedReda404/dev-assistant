@@ -87,6 +87,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "DevAssistant.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "DevAssistant.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DevAssistant.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevAssistant.Application.dll": {}
+        }
+      },
+      "DevAssistant.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/DevAssistant.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevAssistant.Domain.dll": {}
+        }
       }
     }
   },
@@ -189,10 +212,22 @@
         "swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "DevAssistant.Application/1.0.0": {
+      "type": "project",
+      "path": "../DevAssistant.Application/DevAssistant.Application.csproj",
+      "msbuildProject": "../DevAssistant.Application/DevAssistant.Application.csproj"
+    },
+    "DevAssistant.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DevAssistant.Domain/DevAssistant.Domain.csproj",
+      "msbuildProject": "../DevAssistant.Domain/DevAssistant.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "DevAssistant.Application >= 1.0.0",
+      "DevAssistant.Domain >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.4",
       "Swashbuckle.AspNetCore.Swagger >= 10.1.7",
       "Swashbuckle.AspNetCore.SwaggerGen >= 10.1.7",
@@ -206,9 +241,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.csproj",
-      "projectName": "DevAssistant",
-      "projectPath": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.csproj",
+      "projectUniqueName": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.API.csproj",
+      "projectName": "DevAssistant.API",
+      "projectPath": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.API.csproj",
       "packagesPath": "C:\\Users\\ELking 01156909010\\.nuget\\packages\\",
       "outputPath": "D:\\RealProjects\\DevAssistant\\DevAssistant\\obj\\",
       "projectStyle": "PackageReference",
@@ -230,7 +265,14 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\DevAssistant.Application.csproj": {
+              "projectPath": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\DevAssistant.Application.csproj"
+            },
+            "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\DevAssistant.Domain.csproj": {
+              "projectPath": "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\DevAssistant.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

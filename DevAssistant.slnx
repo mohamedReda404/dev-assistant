@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="DevAssistant/DevAssistant.csproj" />
+  <Project Path="DevAssistant.Application/DevAssistant.Application.csproj" Id="2656ed1c-f15d-40de-bc73-492818003312" />
+  <Project Path="DevAssistant.Domain/DevAssistant.Domain.csproj" Id="cd9bec43-03ff-4cbc-a0c5-306a0b91b34b" />
+  <Project Path="DevAssistant.Infrastructure/DevAssistant.Infrastructure.csproj" Id="3d7b40bf-2de8-420d-9794-4a9cbfe85440" />
+  <Project Path="DevAssistant/DevAssistant.API.csproj" />
 </Solution>

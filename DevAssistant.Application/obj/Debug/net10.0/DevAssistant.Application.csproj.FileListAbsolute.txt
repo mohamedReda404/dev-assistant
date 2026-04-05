@@ -1,0 +1,16 @@
+D:\RealProjects\DevAssistant\DevAssistant.Application\bin\Debug\net10.0\DevAssistant.Application.deps.json
+D:\RealProjects\DevAssistant\DevAssistant.Application\bin\Debug\net10.0\DevAssistant.Application.dll
+D:\RealProjects\DevAssistant\DevAssistant.Application\bin\Debug\net10.0\DevAssistant.Application.pdb
+D:\RealProjects\DevAssistant\DevAssistant.Application\bin\Debug\net10.0\DevAssistant.Domain.dll
+D:\RealProjects\DevAssistant\DevAssistant.Application\bin\Debug\net10.0\DevAssistant.Domain.pdb
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssistant.Application.csproj.AssemblyReference.cache
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssistant.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssistant.Application.AssemblyInfoInputs.cache
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssistant.Application.AssemblyInfo.cs
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssistant.Application.csproj.CoreCompileInputs.cache
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssistant.Application.sourcelink.json
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssis.2DB9626E.Up2Date
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssistant.Application.dll
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\refint\DevAssistant.Application.dll
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\DevAssistant.Application.pdb
+D:\RealProjects\DevAssistant\DevAssistant.Application\obj\Debug\net10.0\ref\DevAssistant.Application.dll

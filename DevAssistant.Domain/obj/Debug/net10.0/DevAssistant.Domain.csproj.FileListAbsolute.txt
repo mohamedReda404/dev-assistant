@@ -1,0 +1,12 @@
+D:\RealProjects\DevAssistant\DevAssistant.Domain\bin\Debug\net10.0\DevAssistant.Domain.deps.json
+D:\RealProjects\DevAssistant\DevAssistant.Domain\bin\Debug\net10.0\DevAssistant.Domain.dll
+D:\RealProjects\DevAssistant\DevAssistant.Domain\bin\Debug\net10.0\DevAssistant.Domain.pdb
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.AssemblyInfoInputs.cache
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.AssemblyInfo.cs
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.csproj.CoreCompileInputs.cache
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.sourcelink.json
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.dll
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\refint\DevAssistant.Domain.dll
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\DevAssistant.Domain.pdb
+D:\RealProjects\DevAssistant\DevAssistant.Domain\obj\Debug\net10.0\ref\DevAssistant.Domain.dll
