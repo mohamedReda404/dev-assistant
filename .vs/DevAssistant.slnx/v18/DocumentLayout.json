@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\RealProjects\\DevAssistant\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|d:\\realprojects\\devassistant\\devassistant.application\\errors\\userserrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|solutionrelative:devassistant.application\\errors\\userserrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\devassistant.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\devassistant.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|d:\\realprojects\\devassistant\\devassistant.application\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|solutionrelative:devassistant.application\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|d:\\realprojects\\devassistant\\devassistant.application\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|solutionrelative:devassistant.application\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|d:\\realprojects\\devassistant\\devassistant.application\\devassistant.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|solutionrelative:devassistant.application\\devassistant.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|d:\\realprojects\\devassistant\\devassistant.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|solutionrelative:devassistant.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|d:\\realprojects\\devassistant\\devassistant.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|solutionrelative:devassistant.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\dependency injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\dependency injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\golbalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\golbalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D7B40BF-2DE8-420D-9794-4A9CBFE85440}|DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj|d:\\realprojects\\devassistant\\devassistant.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D7B40BF-2DE8-420D-9794-4A9CBFE85440}|DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj|solutionrelative:devassistant.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{3D7B40BF-2DE8-420D-9794-4A9CBFE85440}|DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj|solutionrelative:devassistant.infrastructure\\devassistant.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|d:\\realprojects\\devassistant\\devassistant.application\\devassistant.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2656ED1C-F15D-40DE-BC73-492818003312}|DevAssistant.Application\\DevAssistant.Application.csproj|solutionrelative:devassistant.application\\devassistant.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\devassistant.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\devassistant.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD9BEC43-03FF-4CBC-A0C5-306A0B91B34B}|DevAssistant.Domain\\DevAssistant.Domain.csproj|d:\\realprojects\\devassistant\\devassistant.domain\\devassistant.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CD9BEC43-03FF-4CBC-A0C5-306A0B91B34B}|DevAssistant.Domain\\DevAssistant.Domain.csproj|solutionrelative:devassistant.domain\\devassistant.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -31,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\golbalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\golbalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|d:\\realprojects\\devassistant\\devassistant\\dependency injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCC4E18A-941A-8011-8572-1F4FBBF2DDB5}|DevAssistant\\DevAssistant.API.csproj|solutionrelative:devassistant\\dependency injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7B40BF-2DE8-420D-9794-4A9CBFE85440}|DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj|d:\\realprojects\\devassistant\\devassistant.infrastructure\\persistence\\migrations\\20260405212002_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7B40BF-2DE8-420D-9794-4A9CBFE85440}|DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj|solutionrelative:devassistant.infrastructure\\persistence\\migrations\\20260405212002_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,19 +91,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersErrors.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Errors\\UsersErrors.cs",
+              "RelativeDocumentMoniker": "DevAssistant.Application\\Errors\\UsersErrors.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Errors\\UsersErrors.cs",
+              "RelativeToolTip": "DevAssistant.Application\\Errors\\UsersErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:19:59.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Abstractions\\Result.cs",
+              "RelativeDocumentMoniker": "DevAssistant.Application\\Abstractions\\Result.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Abstractions\\Result.cs",
+              "RelativeToolTip": "DevAssistant.Application\\Abstractions\\Result.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:05:35.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Abstractions\\Error.cs",
+              "RelativeDocumentMoniker": "DevAssistant.Application\\Abstractions\\Error.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Abstractions\\Error.cs",
+              "RelativeToolTip": "DevAssistant.Application\\Abstractions\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:05:26.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "DevAssistant.Application\\Services\\IUserService.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "DevAssistant.Application\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T21:23:10.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DevAssistant.Infrastructure\\Persistence\\AppDbContext.cs",
               "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeToolTip": "DevAssistant.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T20:17:23.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T20:17:23.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "DevAssistant.Domain\\Entities\\User.cs",
@@ -83,12 +162,11 @@
               "RelativeToolTip": "DevAssistant.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T19:52:53.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T19:52:53.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "DevAssistant.Infrastructure.csproj",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj",
               "RelativeDocumentMoniker": "DevAssistant.Infrastructure\\DevAssistant.Infrastructure.csproj",
@@ -101,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "DevAssistant\\Properties\\launchSettings.json",
@@ -109,12 +187,11 @@
               "RelativeToolTip": "DevAssistant\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-05T16:01:04.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T16:01:04.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GolbalUsing.cs",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\GolbalUsing.cs",
               "RelativeDocumentMoniker": "DevAssistant\\GolbalUsing.cs",
@@ -122,51 +199,36 @@
               "RelativeToolTip": "DevAssistant\\GolbalUsing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T16:00:21.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T16:00:21.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Program.cs",
               "RelativeDocumentMoniker": "DevAssistant\\Program.cs",
               "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Program.cs",
               "RelativeToolTip": "DevAssistant\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:53:29.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T15:53:29.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dependency Injection.cs",
-              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Dependency Injection.cs",
-              "RelativeDocumentMoniker": "DevAssistant\\Dependency Injection.cs",
-              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Dependency Injection.cs",
-              "RelativeToolTip": "DevAssistant\\Dependency Injection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:52:10.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DevAssistant.API.csproj",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.API.csproj",
               "RelativeDocumentMoniker": "DevAssistant\\DevAssistant.API.csproj",
               "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\DevAssistant.API.csproj",
               "RelativeToolTip": "DevAssistant\\DevAssistant.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-05T15:50:10.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DevAssistant.Application.csproj",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\DevAssistant.Application.csproj",
               "RelativeDocumentMoniker": "DevAssistant.Application\\DevAssistant.Application.csproj",
@@ -179,7 +241,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\appsettings.json",
+              "RelativeDocumentMoniker": "DevAssistant\\appsettings.json",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\appsettings.json",
+              "RelativeToolTip": "DevAssistant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T21:02:15.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260405212002_Init.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\Persistence\\Migrations\\20260405212002_Init.cs",
+              "RelativeDocumentMoniker": "DevAssistant.Infrastructure\\Persistence\\Migrations\\20260405212002_Init.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Infrastructure\\Persistence\\Migrations\\20260405212002_Init.cs",
+              "RelativeToolTip": "DevAssistant.Infrastructure\\Persistence\\Migrations\\20260405212002_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T21:20:02.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DevAssistant.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "DevAssistant.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T21:23:21.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dependency Injection.cs",
+              "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Dependency Injection.cs",
+              "RelativeDocumentMoniker": "DevAssistant\\Dependency Injection.cs",
+              "ToolTip": "D:\\RealProjects\\DevAssistant\\DevAssistant\\Dependency Injection.cs",
+              "RelativeToolTip": "DevAssistant\\Dependency Injection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:52:10.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "DevAssistant.Domain.csproj",
               "DocumentMoniker": "D:\\RealProjects\\DevAssistant\\DevAssistant.Domain\\DevAssistant.Domain.csproj",
               "RelativeDocumentMoniker": "DevAssistant.Domain\\DevAssistant.Domain.csproj",
